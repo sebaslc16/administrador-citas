@@ -3,7 +3,7 @@
 ## Dev
 <h1 align="center">Hi 👋, I'm Joan Sebastian Londoño</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
-<h2 align="center">This is App Heroes Info with a login and register functions, a full library of information about heroes of DC and Marvel</h2>
+<h2 align="center">Esta app es para administrar citas veterinarias</h2>
 <h2 align="center">Skills used: HTML5, CSS3, JavaScript, Tailwind CSS</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebaslc16" alt="sebaslc16" /></a> </p>
